@@ -1,0 +1,38 @@
+F.C09.02F	TTCTACTGGTGGTCGCACTACCCCATCAACT	R.C08.03R,R.C09.03R	CCTCTGCAAAGCCTTCTTC	484
+--------------------
+>KC199999_location=<1..>491,organism=uncultured_ammonia-oxidizing_bacterium,definition=ammonia_monooxygenase_subunit_A
+>HQ594491_location=<1..>491,organism=uncultured_ammonia-oxidizing_bacterium,definition=ammonium_monooxygenase
+>GU138125_location=<1..>491,organism=uncultured_bacterium,definition=ammonia_monooxygenase_subunit_A
+--------------------
+F.C09.02F	TTCTACTGGTGGTCGCACTACCCCATCAACT	R.C08.02R,R.C09.02R	CCTCGGGAAAGCCTTCTTC	484
+--------------------
+>KC568440_location=<1..>491,organism=uncultured_ammonia-oxidizing_bacterium,definition=ammonia_monooxygenase_subunit_A
+>KM250830_location=<1..>491,organism=uncultured_bacterium,definition=ammonia_monooxygenase
+--------------------
+F.C09.02F	TTCTACTGGTGGTCGCACTACCCCATCAACT	R.C08.04R,R.C09.04R	CCTCTGGAAAGCCTTCTTC	484
+--------------------
+>KM250667_location=<1..>491,organism=uncultured_bacterium,definition=ammonia_monooxygenase
+>KM250843_location=<1..>491,organism=uncultured_bacterium,definition=ammonia_monooxygenase
+>MF508784_location=<1..>491,organism=uncultured_bacterium,definition=ammonia_monooxygenase_subunit_A
+--------------------
+F.C08.03F,F.C12.02F	GGCGACTGGGACTTCTGG	R.C08.03R,R.C09.03R	CCTCTGCAAAGCCTTCTTC	670
+--------------------
+>JQ955509_location=<1..>672,organism=uncultured_bacterium,definition=ammonia_monooxygenase_subunit_A
+--------------------
+F.C08.03F,F.C12.02F	GGCGACTGGGACTTCTGG	R.C08.01R,R.C09.01R	CCTCGGCAAAGCCTTCTTC	670
+--------------------
+>JQ955420_location=<1..>672,organism=uncultured_bacterium,definition=ammonia_monooxygenase_subunit_A
+--------------------
+F.C08.03F,F.C12.02F	GGCGACTGGGACTTCTGG	R.C08.02R,R.C09.02R	CCTCGGGAAAGCCTTCTTC	670
+--------------------
+>JQ955415_location=<1..>672,organism=uncultured_bacterium,definition=ammonia_monooxygenase_subunit_A
+--------------------
+F.C09.02F	TTCTACTGGTGGTCGCACTACCCCATCAACT	R.C08.01R,R.C09.01R	CCTCGGCAAAGCCTTCTTC	484
+--------------------
+>JQ082849_location=<1..>491,organism=uncultured_ammonia-oxidizing_bacterium,definition=ammonia_monoxygenase
+--------------------
+F.C05.07F	TACAATTGGGTGAACTA	R.C05.06R	AGATCATCGTGCTGTG	415
+--------------------
+>LC456852_location=<1..>757,organism=uncultured_Nitrospira_sp.,definition=ammonia_monooxygenase_subunit_A
+>LC456851_location=<1..>756,organism=uncultured_Nitrospira_sp.,definition=ammonia_monooxygenase_subunit_A
+--------------------
